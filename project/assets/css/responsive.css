@@ -1,0 +1,1449 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1600px) {
+    .consen_menu>ul>li>a {
+        margin: 30px 6px !important;
+        font-size: 15px !important;
+    }
+
+    a.logo_img img {
+        width: 170px !important;
+    }
+
+    .header-button a {
+        padding: 10px 30px;
+        font-size: 14px;
+    }
+
+     /* Contact area 
+    =========================*/
+
+    .row.contact-center {
+        padding: 0;
+    }
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    a.logo_img img {
+        width: 90%;
+    }
+
+    .header-button a {
+        display: none;
+    }
+
+    .consen_menu>ul>li>a {
+        font-size: 15px;
+        margin: 35px 10px 35px;
+    }
+
+    /* Slider area */
+
+    .slider-content h1 {
+        font-size: 40px;
+    }
+
+    .slider-content p {
+        width: 65%;
+    }
+
+    .slider-shape-thumb3 {
+        display: none;
+    }
+
+    .slider-area .video-icon {
+        left: 87%;
+    }
+
+    /*start section title
+    ============================*/
+
+    .consen-section-title h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+
+    /*start About area
+    ======================*/
+
+    .about-thumb img {
+        width: 100%;
+    }
+
+
+
+    /*service area
+    ==================*/
+
+    .service-content p {
+        font-size: 15px;
+    }
+
+
+
+
+    
+
+    /*Counter area
+    =================*/
+
+    .row.cntr-bg {
+        padding: 61px 30px 35px;
+    }
+
+    .counter-text {
+        padding-right: 0;
+    }
+
+    .counter-text h1 span {
+        font-size: 30px;
+    }
+
+    .counter-text span {
+        font-size: 30px;
+    }
+
+    .counter-title h4 {
+        font-size: 16px;
+    }
+
+    .counter-title h3 {
+        font-size: 16px;
+    }
+    
+
+    /*start Project section*/
+
+    .project-section {
+        padding: 220px 0px 90px;
+    }
+
+    .project-content {
+        width: 100%;
+        padding: 61px 30px 30px;
+    }
+
+    .project-content h4 {
+        font-size: 12px;
+    }
+
+    .project-content h3 {
+        font-size: 17px;
+        padding: 0px 0 10px;
+    }
+
+    a.prjct-btn {
+        font-size: 14px;
+    }
+
+    /* Why choose us 
+    =======================*/
+
+    .choose-us-item {
+        padding: 32px 16px 33px;
+    }
+
+    .choose-icon {
+        margin-right: 18px;
+    }
+
+    .choose-content h4 {
+        font-size: 20px;
+    }
+
+    /* Testimonial section
+    ===========================*/
+
+    .testi-single-box {
+        padding: 40px 25px 50px;
+    }
+
+    .testi-title h3 {
+        font-size: 18px;
+    }
+
+    .quote-icon i {
+        font-size: 36px;
+        margin: 4px 0 0 0;
+    }
+
+    .testimonial-desc p {
+        font-size: 15px;
+    }
+
+    
+
+
+    /*blog area*/
+    
+    .blog-content2 h3 {
+        font-size: 24px;
+    }
+
+    .blog-content h3 {
+        font-size: 22px;
+    }
+
+    .blog-title h3 a {
+        font-size: 21px;
+    }
+
+    .widget-items {
+        padding: 40px 30px 15px;
+    }
+
+    /* Call to action area */
+
+    .call-content h1 {
+        font-size: 40px;
+    }
+
+    /*footer area*/
+
+    .footer-contact-info {
+        padding: 30px 20px 15px;
+    }
+
+    .footer-logo {
+        padding: 35px 20px 35px;
+    }
+
+    .footer-logo a img {
+        width: 100%;
+    }
+
+    .footer-widget-contact p {
+        font-size: 16px;
+    }
+
+   
+    /*==================< Start inner page >=======================*/
+
+
+
+     /* Inner Sevice area */
+
+     .service-list .owl-nav:before {
+        left: 35%;
+    }
+
+    .service-list .owl-nav:after {
+        right: 35%;
+    }
+
+    /* Inner Why Choose us area */
+
+
+    .choose-video-icon {
+        bottom: -36rem;
+        right: 172px;
+    }
+
+    /* pricing area */
+    
+    .text-center.consen-section-title p {
+        width: 100%;
+
+    }
+
+    .pricing-single-inner {
+        padding: 35px 20px 49px;
+    }
+
+    .pricing-item-text span {
+        font-size: 60px;
+    }
+
+    /*accordion*/
+
+    .accordion li p {
+        font-size: 15px;
+    }
+
+    .accordion li a {
+        font-size: 17px;
+    }
+
+     /* Contact area 
+    =========================*/
+
+    .row.contact-center {
+        padding: 0;
+    }
+
+    /* Inner service detials */
+
+    .widget-categories-menu ul li a {
+        font-size: 15px;
+    }
+
+    .widget-categories-menu ul li a span {
+        font-size: 14px;
+    }
+
+    .service-details-contents {
+        padding: 21px 20px 25px;
+    }
+
+    /* portfolio area */
+
+    .portfolio_menu ul {
+        text-align: left;
+        padding: 0 0 30px;
+    }
+
+    .portfolio_nav ul li {
+        padding: 7px 18px;
+        margin-left: 7px;
+        margin-bottom: 8px;
+        font-size: 16px;
+    }
+
+    .case-study-title h3 {
+        font-size: 24px;
+    }
+
+
+
+
+
+
+
+    
+
+}
+
+
+/* Tablet desktop :768px. 
+===============================*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .consen_nav_manu {
+        display: none;
+    }
+
+    .sticky {
+        position: relative !important;
+    }
+
+    /*slider area
+    =================*/
+
+    .slider-area {
+        height: 715px;
+    }
+
+    .slider-content h1 {
+        font-size: 30px;
+    }
+
+
+    /* Section title 
+    ======================== */
+
+    .consen-section-title h2 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+
+    /* About section
+    =================== */
+
+    .about-thumb {
+        margin-bottom: 35px;
+    }
+
+    .about-thumb img {
+        width: 100%;
+    }
+
+
+    /*service area
+    =================*/
+
+
+    
+    /*counter area*/
+
+    .counter-text span {
+        font-size: 40px;
+    }
+
+    .counter-title h3 {
+        font-size: 19px;
+    }
+
+    /* Project section */
+
+    .project-section {
+        padding: 220px 0px 90px;
+    }
+
+
+    /* Why Choose Us 
+    =====================*/
+
+    .form-contact-box {
+        margin-bottom: 40px;
+    }
+
+    .choose-us-item {
+        padding: 14px 35px 40px;
+    }
+   
+   
+
+    /*testimonial*/
+
+
+
+    /*blog area
+    ========================*/
+
+    .blog-title h3 a {
+        font-size: 21px;
+    }
+
+
+    /* Call to Action
+    ====================== */
+
+    .call-content h1 {
+        font-size: 28px;
+    }
+
+    .call-content h3 {
+        font-size: 18px;
+    }
+
+    /* Blog area */
+
+    .widget.widget-nav-menu {
+        margin-top: 30px;
+    }
+
+    div#recent-post-widget {
+        margin: 30px 0 40px;
+    }
+
+    
+
+    /* ==============<Start inner page>===================*/ 
+    
+
+
+    .breadcumb-area {
+        height: 300px;
+    }
+
+   
+
+    /* Feature area */
+
+    .feature-signle-item:after {
+        right: -48%;
+    }
+
+    /* Testimonial */
+
+    .testi-right {
+        margin-left: 0;
+        margin-top: 40px;
+    }
+
+    /* Inner Sevice area */
+
+    .service-list .owl-nav:before {
+        left: 32%;
+    }
+
+    .service-list .owl-nav:after {
+        right: 32%;
+    }
+    
+    .services-detials-desc {
+        overflow: hidden;
+    }
+
+    /* Inner Why Choose us area */
+
+    .row.choose-us_bg:before {
+        position: inherit;
+    }
+
+    .choose-video-icon {
+        bottom: -36rem;
+        right: 172px;
+    }
+
+    /* pricing area */
+    
+    .text-center.consen-section-title p {
+        width: 100%;
+
+    }
+
+    .pricing-item-text span {
+        font-size: 60px;
+    }
+
+     /* Contact area 
+    =========================*/
+
+    .row.contact-center {
+        padding: 0;
+    }
+
+    .contact_from_box {
+        padding: 60px 30px 60px;
+    }
+
+     /* portfolio area */
+
+     .portfolio_menu ul {
+        text-align: left;
+        padding: 0 0 30px;
+    }
+
+    .portfolio_nav ul li {
+        padding: 7px 18px;
+        margin-left: 7px;
+        margin-bottom: 8px;
+        font-size: 16px;
+    }
+
+    .case-study-title h3 {
+        font-size: 24px;
+    }
+
+
+    
+
+
+
+
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+    .consen_nav_manu {
+        display: none;
+    }
+
+    .sticky {
+        position: relative !important;
+    }
+
+
+    /*slider area
+    ==================*/
+    
+    .slider-area {
+        height: 705px;
+    }
+
+    .slider-content h3 {
+        font-size: 16px;
+    }
+
+    .slider-content h1 {
+        font-size: 30px;
+    }
+
+    .hero-description p {
+        width: 80%;
+    }
+
+
+    /*section title*/
+
+    .consen-section-title h2 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+
+
+    /* About Section
+    ======================== */
+
+    .about-thumb img {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+
+
+    /*Counter area*/
+
+    .counter-text span {
+        font-size: 40px;
+    }
+
+
+    /*Project area*/
+
+    .project-section {
+        padding: 220px 0px 90px;
+    }
+
+    .constre-btn.text-right {
+        text-align: left !important;
+        margin: 30px 0 50px;
+    }
+
+    .consen-section-title.style-two.mb-60.pb-10 {
+        margin: 0 !important;
+    }
+
+    /*Why Choose us area*/
+
+
+    .form-contact-box {
+        margin-bottom: 40px;
+    }
+
+    .choose-us-item {
+        padding: 20px 35px 33px;
+    }
+
+    /*Blog area
+    ================*/
+
+    .blog-content h3 {
+        font-size: 25px;
+    }
+
+    .blog-content2 h3 {
+        font-size: 26px;
+    }
+
+
+
+
+
+    /*Call To action*/
+
+    .call-content h1 {
+        font-size: 35px;
+    }
+
+    .call-btn.text-right {
+        text-align: left !important;
+        margin: 25px 0 0;
+    }
+
+    /*footer area
+    =====================*/
+
+    .widget-widget-nav-menu {
+        padding: 20px 0 0 0px;
+    }
+
+    .widget.widget-nav-menu {
+        margin: 18px 0 30px;
+    }
+
+    div#recent-post-widget {
+        margin-bottom: 30px;
+    }
+
+    /*inner page
+    ======================*/
+
+    
+    /* Feature area */
+
+    .feature-signle-item:after {
+        right: -46%;
+    }
+
+    /* Testimonial area */
+
+    .testi-right {
+        margin-left: 0;
+        margin-top: 40px;
+    }
+
+
+    /* Inner Sevice area */
+
+    .service-list .owl-nav:before {
+        position: inherit;
+    }
+
+    .service-list .owl-nav:after {
+        position: inherit;
+    }
+
+    /* Inner Why Choose us area */
+
+    .row.choose-us_bg:before {
+        position: inherit;
+    }
+
+    .choose-video-icon {
+        bottom: -36rem;
+        right: 172px;
+    }
+
+    /* pricing area */
+    
+    .text-center.consen-section-title p {
+        width: 100%;
+
+    }
+
+    .pricing-item-text span {
+        font-size: 60px;
+    }
+
+
+     /* Contact area 
+    =========================*/
+
+    .row.contact-center {
+        padding: 0;
+    }
+
+    .contact_from_box {
+        padding: 60px 30px 60px;
+    }
+
+    /* Service details
+    ====================== */
+
+    .service-details-box {
+        padding: 33px 25px 15px;
+    }
+
+    
+    /* portfolio area */
+
+    .portfolio_menu ul {
+        text-align: left;
+        padding: 0 0 30px;
+    }
+
+    .portfolio_nav ul li {
+        padding: 7px 18px;
+        margin-left: 7px;
+        margin-bottom: 8px;
+        font-size: 16px;
+    }
+
+    .case-study-thumb2 img {
+        width: 100%;
+    }
+
+    
+
+   
+
+    
+
+    
+
+}
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+
+
+    .consen_nav_manu {
+        display: none;
+    }
+
+    .header_top_menu {
+        display: none !important;
+    }
+
+    .sticky {
+        position: relative !important;
+    }
+
+    /*slider area*/
+
+    .slider-area {
+        height: 740px;
+    }
+
+    .slider-content h3 {
+        font-size: 16px;
+    }
+
+    .slider-content h1 {
+        font-size: 30px;
+    }
+
+    .hero-description p {
+        width: 88%;
+    }
+
+    .owl-next {
+        right: 20px;
+        bottom: 33rem;
+    }
+    
+    .owl-prev {
+        left: 19rem;
+        bottom: 33rem;
+    }
+
+    /* Section Title 
+    =========================*/
+
+    .consen-section-title h2 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+
+
+    /* About Section 
+    ===================== */
+
+    .about-thumb img {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    
+
+    
+
+    /*Counter area
+    ===================*/
+
+    .counter-text span {
+        font-size: 40px;
+    }
+
+    
+
+
+    /*Project area*/
+
+    .project-section {
+        padding: 220px 0px 90px;
+    }
+
+    .constre-btn.text-right {
+        text-align: left !important;
+        margin: 30px 0 50px;
+    }
+
+    .consen-section-title.style-two.mb-60.pb-10 {
+        margin: 0 !important;
+    }
+
+    
+    
+    /*Why Choose us area*/
+
+
+    .form-contact-box {
+        margin-bottom: 40px;
+    }
+
+    .choose-us-item {
+        padding: 20px 35px 33px;
+    }
+
+    /*Blog area
+    ================*/
+
+    .blog-content h3 {
+        font-size: 25px;
+    }
+
+    .blog-content2 h3 {
+        font-size: 26px;
+    }
+
+
+    /*Call To action*/
+
+    .call-content h1 {
+        font-size: 35px;
+    }
+
+    .call-btn.text-right {
+        text-align: left !important;
+        margin: 25px 0 0;
+    }
+
+    .footer-bottom-content-copy p {
+        font-size: 15px;
+    }
+
+    
+
+
+    /*footer area
+    =====================*/
+
+    .widget-widget-nav-menu {
+        padding: 20px 0 0 0px;
+    }
+
+    .widget.widget-nav-menu {
+        margin: 18px 0 30px;
+    }
+
+    div#recent-post-widget {
+        margin-bottom: 30px;
+    }
+
+    /* Testimonial area */
+
+    .testi-right {
+        margin-left: 0;
+        margin-top: 40px;
+    }
+
+    /* Inner Sevice area */
+
+    .service-list .owl-nav:before {
+        position: inherit;
+    }
+
+    .service-list .owl-nav:after {
+        position: inherit;
+    }
+
+    /* Inner Why Choose us area */
+
+    .row.choose-us_bg:before {
+        position: inherit;
+    }
+
+    .choose-video-icon {
+        bottom: -37rem;
+        right: 125px;
+    }
+
+    /* pricing area */
+    
+    .text-center.consen-section-title p {
+        width: 100%;
+
+    }
+
+    .pricing-item-text span {
+        font-size: 60px;
+    }
+
+    /* Contact area 
+    =========================*/
+
+    .row.contact-center {
+        padding: 0;
+    }
+
+    .contact_from_box {
+        padding: 60px 30px 60px;
+    }
+
+    /* Accordion section */
+
+    .accordion.style1  li a {
+        padding: 25px 14px 25px 20px;
+        font-size: 18px;
+    }
+
+    /* portfolio area */
+
+    .portfolio_menu ul {
+        text-align: left;
+        padding: 0 0 30px;
+    }
+
+    .portfolio_nav ul li {
+        padding: 7px 18px;
+        margin-left: 7px;
+        margin-bottom: 8px;
+        font-size: 16px;
+    }
+
+    .case-study-title h3 {
+        font-size: 23px;
+    }
+
+    .blog-details-comment-thumb {
+        float: inherit;
+        margin-bottom: 25px;
+    }
+
+
+
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    .consen_nav_manu {
+        display: none;
+    }
+
+    .header_top_menu {
+        display: none !important;
+    }
+
+    .sticky {
+        position: relative !important;
+    }
+
+    .style-three.about-area .dreamit-about-thumb {
+        margin: 0;
+    }
+
+    /*slider area*/
+    .slider-area {
+        height: 715px;
+    }
+
+    .slider-content h3 {
+        font-size: 14px;
+    }
+
+    .slider-content h1 {
+        font-size: 25px;
+    }
+
+    .hero-description p {
+        width: 100%;
+    }
+    
+    .owl-nav {
+    display: none;
+    }
+
+    .row.hero-bg .video-icon-cda a {
+        margin-top: 45px;
+    }
+    
+    /*section title*/
+
+    .consen-section-title h2 {
+        font-size: 23px;
+        line-height: 28px;
+    }
+
+    .consen-section-title p {
+        font-size: 15px;
+    }
+
+
+    
+
+    /*service area
+    ==================*/
+
+    
+
+    /*about area
+    ====================*/
+
+    .about-content h4 {
+        font-size: 20px;
+    }
+
+    .constre-btn a {
+        padding: 15px 27px;
+        font-size: 16px;
+    }
+    
+
+    
+
+    /*counter area*/
+
+     .counter-text span {
+        font-size: 28px;
+    }
+
+     .counter-title::before {
+        display: none;
+    }
+
+
+        
+
+    /* CONTACT AREA */
+
+    .form-contact-box {
+        padding: 45px 30px 60px;
+        margin-bottom: 40px;
+    }
+
+    /* Why Choose  */
+    
+    .choose-us-item {
+        padding: 10px 15px 15px;
+        display: flex;
+        align-items: center;
+    }
+
+    .choose-icon {
+        margin-right: 15px;
+    }
+
+    .choose-content h4 {
+        font-size: 20px;
+    }
+
+    
+
+
+    /*Project area*/
+
+    .project-section {
+        padding: 220px 0px 90px;
+    }
+
+    .constre-btn.text-right {
+        text-align: left !important;
+        margin: 30px 0 50px;
+    }
+
+    .consen-section-title.style-two.mb-60.pb-10 {
+        margin: 0 !important;
+    }
+
+    .project-content h3 {
+        font-size: 24px;
+    }
+
+    
+    
+    /*Why Choose us area*/
+
+
+    .form-contact-box {
+        margin-bottom: 40px;
+    }
+
+    .choose-us-item {
+        padding: 20px 35px 33px;
+    }
+
+    /* Testimonial area */
+
+    .testi-single-box {
+        padding: 40px 28px 50px;
+    }
+
+    ul.testi-rating li {
+        margin-right: 2px;
+    }
+
+    .testi-title h3 {
+        font-size: 22px;
+    }
+
+
+
+
+    /*Call To action*/
+
+    .row.cntr-bg {
+        padding: 40px 25px 20px;
+    }
+
+    .call-content h1 {
+        font-size: 30px;
+        font-weight: 500;
+    }
+
+    .call-content h1 {
+        font-size: 33px;
+        font-weight: 500;
+    }
+
+    .counter-title h3 {
+        font-size: 18px;
+    }
+
+    .counter-text {
+        padding-right: 0;
+    }
+
+    .call-btn.text-right {
+        text-align: left !important;
+        margin: 25px 0 0;
+    }
+
+
+    /* Blog area */
+
+    .blog-content {
+        padding: 75px 20px 20px;
+    }
+
+    .blog-content2 h3 {
+        font-size: 21px;
+    }
+
+    .blog-content h3 {
+        font-size: 20px;
+    }
+
+    .blog-contents {
+        padding: 30px 22px 35px 20px;
+    }
+
+    .blog-title h3 a {
+        font-size: 21px;
+    }
+
+    .meta-blog p {
+        font-size: 14px;
+    }
+
+    .widget-items {
+        padding: 40px 25px 15px;
+    }
+    
+
+    
+    /*footer area
+    =====================*/
+
+    .widget-widget-nav-menu {
+        padding: 20px 0 0 0px;
+    }
+
+    .widget.widget-nav-menu {
+        margin: 18px 0 30px;
+    }
+
+    div#recent-post-widget {
+        margin-bottom: 30px;
+    }
+
+    .footer-bottom-content-copy p {
+        font-size: 15px;
+    }
+
+
+
+    
+
+
+/*=============< Start Inner Page >================*/
+
+    /*Breatcame section */
+
+    .breadcumb-section {
+        height: 380px;
+    }
+
+    .breadcumb-content h1 {
+        font-size: 46px;
+    }
+
+    
+    /*Feature area*/
+
+    .feature-signle-item {
+        padding: 30px 25px 40px;
+    }
+
+    .feature-title h3 {
+        font-size: 19px;
+    }
+
+    h3.feature-namber {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 15px;
+    }
+
+    /* Testimonial */
+
+    .testi-right {
+        margin-left: 0;
+        margin-top: 40px;
+    }
+
+    .style-two .testimonial-content {
+        padding: 32px 20px 33px 30px;
+    }
+
+    
+    
+
+    
+    /* Inner pg Service */
+
+    .service-list .owl-nav:before {
+        position: inherit;
+    }
+
+    .service-list .owl-nav:after {
+        position: inherit;
+    }
+
+    /* inner Choose area */
+
+    .row.choose-us_bg:before {
+        position: inherit;
+    }
+
+    .choose-video-icon {
+        bottom: -38rem;
+        right: 0;
+    }
+    .choose-list ul li img {
+        margin-right: 5px;
+    }
+
+    .choose-list ul li {
+        font-size: 16px;
+    }
+
+    /* pricing area */
+    
+    .text-center.consen-section-title p {
+        width: 100%;
+
+    }
+
+    .pricing-single-inner {
+        padding: 35px 20px 49px;
+    }
+
+    .pricing-item-text span {
+        font-size: 60px;
+    }
+
+    /* Accordion section */
+
+    .accordion.style1  li a {
+        padding: 25px 15px 25px 11px;
+        font-size: 16px;
+    }
+
+    /* Error section */
+
+    .error-content h2 {
+        font-size: 19px;
+    }
+
+    .error-content p {
+        font-size: 15px;
+    }
+
+    .error-search input {
+        width: 90%;
+    }
+
+    .error-area {
+        padding: 75px 0 75px;
+    }
+
+    /* Contact area 
+    =========================*/
+
+    .row.contact-center {
+        padding: 0;
+    }
+
+    .contact_from_box {
+        padding: 60px 30px 60px;
+    }
+
+    /* Service details
+    ====================== */
+
+    .service-details-box {
+        padding: 33px 25px 15px;
+    }
+
+    .service-details-icon {
+        float: inherit;
+    }
+
+    .service-page-title h1 {
+        font-size: 25px;
+    }
+
+    .service-page-title2 h1 {
+        font-size: 28px;
+    }
+
+    .service-details-contents {
+        padding: 21px 20px 25px;
+    }
+
+    .widget-categories-box {
+        padding: 26px 20px 25px;
+    }
+
+    .widget-categories-menu ul li {
+        padding: 16px 12px 16px;
+    }
+
+    .widget-categories-menu ul li a {
+        font-size: 15px;
+    }
+
+    .widget-categories-menu ul li a span {
+        font-size: 15px;
+    }
+
+    .service-tab-title h2 {
+        font-size: 23px;
+    }
+
+    /* Portfolio area */
+
+    .portfolio_menu ul {
+        text-align: left;
+        padding: 0 0 30px;
+    }
+
+    .portfolio_nav ul li {
+        padding: 7px 18px;
+        margin-left: 7px;
+        margin-bottom: 8px;
+        font-size: 15px;
+    }
+
+    .case-study-title h3 {
+        font-size: 23px;
+    }
+
+    .blog-details-comment-thumb {
+        float: inherit;
+        margin-bottom: 25px;
+    }
+    
+    
+
+    
+
+}
+
+
+
+
+/*xl device min width*/
+@media screen and (min-width:992px) {
+    .pl-lg-50 {
+        padding-left: 50px;
+    }
+}
+
+/*xl device min width*/
+@media screen and (min-width:1200px) {
+    .video-icon {
+        left: 83%;
+    }
+}
