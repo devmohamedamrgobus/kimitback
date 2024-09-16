@@ -1,0 +1,24 @@
+{
+    "name": "kimit/mvc",
+    "description": "mvc",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Kimit\\Mvc\\": "src/"
+        },
+        "files": [
+            "src/routes/web.php",
+             "src/core/helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "mohamed amr",
+            "email": "mohamed.amr@gobus-eg.com"
+        }
+    ],
+    "require": {
+        "filp/whoops": "^2.15",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
